@@ -1,2 +1,2 @@
-<Readme File>
-<This file contains arbitrary data>
+Readme File
+This file contains arbitrary data
